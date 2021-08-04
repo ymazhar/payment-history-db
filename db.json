@@ -1,0 +1,29 @@
+{
+  "totalRecords": 50,
+  "data": [
+      {
+        "paymentDate": "2021-04-28T10:12:043+0100",
+        "paymentDesc": "single",
+        "card": "VISA XXXX 1111",
+        "amount": 777777
+    },
+    {
+      "paymentDate": "2021-05-28T10:12:043+0100",
+      "paymentDesc": "multi",
+      "card": "VISA XXXX 3333",
+      "amount": 5555
+    },
+    {
+      "paymentDate": "2021-06-28T10:12:043+0100",
+      "paymentDesc": "single",
+      "card": "VISA XXXX 4444",
+      "amount": 2222
+    },
+    {
+      "paymentDate": "2021-07-28T10:12:043+0100",
+      "paymentDesc": "single",
+      "card": "VISA XXXX 5555",
+      "amount": 5454545
+    }
+  ]
+}
